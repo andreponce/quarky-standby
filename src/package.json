@@ -1,0 +1,19 @@
+{
+  "name": "Desafie-me",
+  "version": "1.0.0",
+  "description": "By Quarky",
+  "author": "ponce<ponce@quarky.com.br>",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-clean-css": "*",
+    "gulp-concat": "*",
+    "gulp-htmlmin": "*",
+    "gulp-less": "*",
+    "gulp-minify-inline": "*",
+    "gulp-remove-html-comments": "*",
+    "gulp-rename": "*",
+    "gulp-replace-path": "*",
+    "gulp-shell": "^0.6.3",
+    "gulp-uglify": "*"
+  }
+}
